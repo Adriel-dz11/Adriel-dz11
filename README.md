@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adriel-dz11
 - 👀 I’m interested in create new projects of technology
-- 🌱 I’m currently learning software development in the university
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning software development by my own
+- 💞️ I’m looking to collaborate on.
 - 📫 How to reach me: adrielenmnauel11@gmail.com
 
 <!---
